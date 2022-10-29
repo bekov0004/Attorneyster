@@ -1,0 +1,365 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.white{
+    color: white;
+}
+.yellov{
+    color: rgba(209, 176, 107, 1);
+}
+.black{
+    color: black;
+}
+.size20{
+    font-size: 20px;
+}
+.size22{
+    font-size: 22px;
+}
+.size18{
+    font-size: 18px;
+}
+.size65{
+  font-size: 65px;
+}
+.size45{
+    font-size: 45px;
+}
+.size30{
+    font-size: 30px;
+}
+.size35{
+    font-size: 35px;
+}
+.size40{
+    font-size: 40px;
+}
+.size50{
+    font-size: 50px;
+}
+.weight400{
+    font-weight: 400;
+}
+.contener_№1{
+    background-image:linear-gradient(rgba(31, 39, 50, 0.81),rgba(31, 39, 50, 0.81),rgba(31, 39, 50, 0.81)) ,url(./images/IMAGE\ \(44\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+}
+.main_№1{
+    width: 95%;
+    padding-top: 30px;
+}
+.logo_button{
+    display: flex;
+    justify-content:space-between;
+}
+.button_Book_A_№1{
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 0px 71px;
+}
+/* <!----------------------- navbar ----------------------> */
+.text_decor{
+    text-decoration: none;
+}
+.contener_navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    border-top: 1px solid #4E555F;
+    border-bottom: 1px solid #4E555F;
+    align-items: center;
+    padding: 33px 0px;
+}
+.navbar_left ul{
+   display: flex;
+   gap: 50px;
+   list-style-type: none; 
+}
+/* navbar_right */
+.navbar_right{
+    display: flex;
+    gap: 50px;
+}
+/* box_call */
+.box_call_email{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+ /* -------------box_leftWere_rightImg------------ */
+ .box_leftWere_rightImg{
+    display: flex;
+   align-items: center;
+   margin-top: 19px;
+ }
+ .box_leftWere{
+    width: 51%;
+ }
+ .box_rightWere_img{
+    width: 49%;
+ }
+ .p_Were{
+     font-weight: 300;
+    font-family: 'Cormorant Garamond';
+    margin: 14px 0px 21px 0px;
+ }
+ .p_we_have{
+    line-height: 39px;
+ }
+ .box_rightWere_img img{
+    width: 100%;
+ }
+ .button_Get_In_Touch{
+    padding: 24px 71px;
+    background-color: rgba(209, 176, 107, 1); 
+    border: none;
+    margin-top: 28px;
+ }
+ /* <!-----------------contener№2 ------------------> */
+.contener_№2{
+    display: flex;
+    justify-content: center;
+    background-color: #161D27;;
+   
+    padding: 140px 0px;
+
+}
+.main_№2{
+    width: 95%;
+}
+.left_right_№1{
+    display: flex;
+    gap: 60px;
+}
+.img_mrg{
+    margin: 20px 0px;
+}
+.p_bootom_Although{
+  line-height: 32px;   
+}
+
+.left_img_biblo{
+    width: 34%;
+}
+.left_img_biblo img{
+    width: 100%;
+}
+.right_welcome{
+    width: 57%;
+}
+
+
+/* <!-- №2 --> */
+.left_right_№2{
+    display: flex;
+    gap: 60px;
+    margin-bottom: 135px;
+}
+.left_img_kuval{
+    width: 34%;
+}
+.left_img_kuval img{
+    width: 100%;
+}
+.top_img_Peter_Parker{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 45px;
+}
+.bootom_95_Yers{
+    display: flex;
+    gap: 30px;
+ 
+}
+.qalam_varaq{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 36px 50px;
+    background-color: rgba(59, 67, 78, 1);
+}
+.bckrgounr{
+    background-color: rgba(209, 176, 107, 1);
+}
+/* str2 */
+.Explore_we_are{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left_explore{
+    width: 30%;
+}
+.right_we_are{
+    width: 50%;
+    line-height: 30px;
+}
+.posle_we_are{
+    margin: 30px 0px;
+}
+
+/* <!-- --------6 statya --> */
+.contener_statya{
+    width: 32%;
+    /* padding: 45px 40px 60px 40px; */
+    background-color: rgba(31, 39, 50, 1);
+    display: flex;
+    justify-content: center;
+}
+.shest_statya{
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    gap: 25.6px;
+}
+.min_z{
+    width: 80%;
+    padding: 50px 0px 70px 0px ;
+}
+.z1{
+    margin-bottom: 10px;
+}
+.z2{
+    padding-bottom: 28px;
+    width: 90%;
+    line-height: 30px;
+}
+.top{
+    border-bottom: 1px solid rgba(78, 85, 95, 1);
+
+}
+ .boot{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+   
+
+ }
+ .b2 button{
+    padding: 18px 55px;
+    background-color:rgba(22, 29, 39, 1);
+    border: none;
+ }
+
+    /* <!----------------contener №3 -----------------> */
+    .contener_№3{
+        display: flex;
+        justify-content: center;
+    }
+    .main_№3{
+        width: 95%;
+        padding-bottom: 82px;
+        border-bottom:1px solid rgb(212, 211, 211) ;
+    }
+    .fig1{
+        text-align: center;
+        margin-top: 124px;
+        margin-bottom: 60px;
+    }
+    .fig_img{
+        margin: 25px 0px 40px 0px;
+    }
+
+    .trus1{
+        display: flex;
+        align-items: center;
+        background-color:  #FBFBFB;
+        padding: 30px;
+        width: 29%;
+        gap: 20px;
+    }
+    .thri_contener{
+        display: flex;
+       justify-content: space-between;
+    }
+   
+    
+    .p_clients{
+     line-height: 32px;
+    }
+    
+    .trozu{
+        width: 29%;
+
+    }
+    .trozu img{
+        width: 100%;
+        height: 27.5vh;
+    }
+    
+    /* <!----------------contener №4  -----------------> */
+    .contener_№4{
+        display: flex;
+        justify-content: center;
+    }
+  .maim_№4{
+    width: 95%;
+  }
+
+ .meet_№4{
+    display: flex;
+    justify-content: center;
+    margin: 90px 0px 60px 0px;
+}
+.cneter_meet_№4{
+    display: flex;
+    gap: 40px;
+}
+.five_brends{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 130px;
+}
+/* <!----------------contener №4  -----------------> */
+.contener_№5{
+    background-image: url(./images/IMAGE\ \(23\).png);
+    height: 200vh;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_№5{
+    width: 95%;
+  background-color: rgba(31, 39, 50, 0.85);
+  height: 165vh;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+.box_the_img{
+    margin: 20px 0px 45px 0px;
+}
+.box_we_top{
+    width: 43%;
+}
+.p_Company{
+    padding-bottom: 10px;
+}
+.marging_buttom{
+  margin-bottom: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
